@@ -16,6 +16,7 @@
     "license_author": "deusinvictus",
     "variations": [],
     "gif_image": "2handedKettlebellSwing.gif"
+
   },
   {
     "id": 227,
@@ -32,8 +33,10 @@
     "language": 2,
     "license": 1,
     "license_author": "trzr23",
+
     "variations": [227, 329, 229, 190, 119, 123, 152, 155],
     "gif_image": "arnoldpress.gif"
+
   },
   {
     "id": 289,
@@ -52,6 +55,7 @@
     "license_author": "GrosseHund",
     "variations": [],
     "gif_image": "axehold.jpg"
+
   },
   {
     "id": 637,
@@ -68,8 +72,10 @@
     "language": 2,
     "license": 2,
     "license_author": "axel",
+
     "variations": [],
     "gif_image": "backsquat.gif"
+
   },
   {
     "id": 343,
@@ -88,6 +94,7 @@
     "license_author": "sevae",
     "variations": [],
     "gif_image": "barbellrollout.gif"
+
   },
   {
     "id": 407,
@@ -106,6 +113,7 @@
     "license_author": "BePieToday",
     "variations": [407, 342, 300, 191, 650, 389, 355, 160, 185, 111, 795, 387],
     "gif_image": "barbellhacksquat.gif"
+
   },
   {
     "id": 405,
@@ -124,6 +132,7 @@
     "license_author": "Mikko Ruohola",
     "variations": [405, 112, 113],
     "gif_image": "barbelllunges.gif"
+
   },
   {
     "id": 344,
@@ -142,6 +151,7 @@
     "license_author": "sevae",
     "variations": [344, 274, 89, 90],
     "gif_image": "barbelltricepsextension.gif"
+
   },
   {
     "id": 307,
@@ -160,6 +170,7 @@
     "license_author": "nate303303",
     "variations": [],
     "gif_image": "bearwalk.gif"
+
   },
   {
     "id": 192,
@@ -178,6 +189,7 @@
     "license_author": "sistab2",
     "variations": [192, 100, 101, 163, 210, 211, 270, 399],
     "gif_image": "benchpress.gif"
+
   },
   {
     "id": 97,
@@ -196,6 +208,7 @@
     "license_author": "wger.de",
     "variations": [],
     "gif_image": "benchdumbbells.gif"
+
   },
   {
     "id": 88,
@@ -248,6 +261,7 @@
     "license_author": "warchildmd",
     "variations": [412, 362, 109, 110, 340, 214, 202, 670, 142, 108, 106, 339],
     "gif_image": "bentoverbarbellrow.gif"
+
   },
   {
     "id": 362,
@@ -300,6 +314,7 @@
     "license_author": "wger.de",
     "variations": [412, 362, 109, 110, 340, 214, 202, 670, 142, 108, 106, 339],
     "gif_image": "bentoverbarbellrow.gif"
+
   },
   {
     "id": 110,
@@ -318,6 +333,7 @@
     "license_author": "wger.de",
     "variations": [412, 362, 109, 110, 340, 214, 202, 670, 142, 108, 106, 339],
     "gif_image": "bentoverreverse.gif"
+
   },
   {
     "id": 74,
@@ -336,6 +352,7 @@
     "license_author": "wger.de",
     "variations": [74, 81, 80, 129, 275, 298, 86, 138, 193, 208, 205, 768, 305],
     "gif_image": "bicepscurlbarbell.gif"
+
   },
   {
     "id": 81,
@@ -354,6 +371,7 @@
     "license_author": "wger.de",
     "variations": [74, 81, 80, 129, 275, 298, 86, 138, 193, 208, 205, 768, 305],
     "gif_image": "bicepscurldumbbell.gif"
+
   },
   {
     "id": 80,
@@ -372,6 +390,7 @@
     "license_author": "wger.de",
     "variations": [74, 81, 80, 129, 275, 298, 86, 138, 193, 208, 205, 768, 305],
     "gif_image": "bicepsezcurl.gif"
+
   },
   {
     "id": 129,
@@ -441,6 +460,7 @@
     "license_author": "er0355",
     "variations": [],
     "gif_image": "burpee.gif"
+
   },
   {
     "id": 98,
@@ -459,6 +479,7 @@
     "license_author": "wger.de",
     "variations": [],
     "gif_image": "butterfly.gif"
+
   },
   {
     "id": 99,
@@ -562,6 +583,7 @@
     "license_author": "nate303303",
     "variations": [],
     "gif_image": "legpresscalfraises.gif"
+
   },
   {
     "id": 776,
@@ -700,6 +722,7 @@
     "license_author": "wger.de",
     "variations": [91, 94, 92, 416, 93, 176, 95, 170],
     "gif_image": "crunch.gif"
+
   },
   {
     "id": 94,
@@ -839,7 +862,7 @@
     "license_author": "wger.de",
     "variations": [105, 381, 161, 351, 328, 209],
     "gif_image": "deadlifts.gif"
-  },
+ },
   {
     "id": 100,
     "uuid": "b72ae8d4-ede6-4480-8fc5-7b80e369f7ed",
@@ -2476,6 +2499,7 @@
     "license_author": "wger.de",
     "variations": [],
     "gif_image": "pull-ups.gif"
+
   },
   {
     "id": 140,

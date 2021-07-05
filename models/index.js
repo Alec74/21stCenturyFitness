@@ -2,9 +2,12 @@ const User = require('./User');
 const Categories = require('./Categories');
 const Exercises = require('./Exercises');
 const Muscles = require('./Muscles');
+
 const ExerciseImage = require('./ExerciseImage');
 const Workouts = require('./Workouts');
 
+
+const ExerciseImage = require('./ExerciseImage');
 
 Exercises.belongsTo(Categories, {
   foreignKey: 'category_id',
@@ -15,6 +18,7 @@ Categories.hasMany(Exercises, {
  onDelete: 'CASCADE',
  onUpdate: 'CASCADE',
 });
+
 
 Workouts.belongsTo(User, {
   foreignKey: 'user_id',
@@ -35,6 +39,7 @@ Exercises.hasMany(Workouts, {
 });
 
 
+
 module.exports = {
   User,
   Categories,
@@ -42,4 +47,5 @@ module.exports = {
   Muscles,
   ExerciseImage,
   Workouts,
+
 };

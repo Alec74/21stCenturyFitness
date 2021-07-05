@@ -10,11 +10,13 @@ router.post('/', withAuth, async (req, res) => {
       user_id: req.session.user_id,
     });
 
+
     res.status(200).json(newExercise);
   } catch (err) {
     res.status(400).json(err);
   }
 });
+
 
 
 // TODO: MODIFY THIS TO PULL IN EXERCISES BASED ON CATEGORY SELECTED ON THE EXERCISE PAGE. 
@@ -46,8 +48,5 @@ router.get('/:id', async (req, res) => {
     res.status(500).json(err);
   }
 });
-
-
-
 
 module.exports = router;
