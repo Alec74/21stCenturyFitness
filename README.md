@@ -14,7 +14,7 @@ Functionality of App
 1. Able to log in to a personal user account
 2. Records of previous sessions logged 
 3. Able to plan and make new Workouts
-4. Selection of exercises with instructional gifs provided appon new workout creation
+4. Selection of exercises with instructional gifs provided uon new workout creation
 5. Ability to record progress interactively
 
 
@@ -22,7 +22,7 @@ Functionality of App
 
 ![Login in page.](/public/images/loginpage.png)
 
-![Press "exercise" to set up exercise](/public/images/exercisepage.png)
+![Press "exercise" to set up exercise](/public/images/Exercisepage.png)
 
 ![tracking progress interaction](/public/images/recordingInSchedule.png)
 
