@@ -1,6 +1,13 @@
 # 21st Century Fitness (GroupProject2)
 ## https://github.com/Alec74/21stCenturyFitness 
 
+## 🔗 Deployed Application Links
+
+* [Malcolm](https://tranquil-beyond-43999.herokuapp.com/)
+* [Alec]()
+* [Mike]()
+* [Marlon]()
+
 
 ## User Story
 
